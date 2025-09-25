@@ -10,10 +10,6 @@ It consists of three main parts:
 
 ---
 
-## 📂 Project Structure
-
----
-
 ## ⚡ Technologies Used
 ### Frontend / Admin
 - React 19
