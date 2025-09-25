@@ -31,7 +31,7 @@ It consists of three main parts:
 
 ## 🚀 Getting Started
 
-### 1. Run 
+### 1. Run Project
 ```bash
 cd frontend
 npm run dev
